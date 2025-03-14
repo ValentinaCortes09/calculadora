@@ -30,7 +30,7 @@ function App() {
           className="calculator-screen"
         />
         <div className="button-container">
-          <button onClick={() => handleClick("1")}>2</button>
+          <button onClick={() => handleClick("1")}>1</button>
           <button onClick={() => handleClick("2")}>2</button>
           <button onClick={() => handleClick("3")}>3</button>
           <button onClick={() => handleClick("+")}>+</button>
